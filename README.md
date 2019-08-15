@@ -7,3 +7,6 @@ This is a public repo including good web development articles
 # ------ Performance ------
 1. [Monitor and analyze the app](https://developers.google.com/web/fundamentals/performance/webpack/monitor-and-analyze)
 2. [Build performant and progressive React applications](https://web.dev/react)
+
+# ------ CSS -------
+1. [22 CSS Animation](https://freefrontend.com/css-text-animations/)
