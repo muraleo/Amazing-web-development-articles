@@ -1,4 +1,4 @@
-# Amazing-web-development-articles
+# Amazing Web Development Articles
 This is a public repo including good web development articles
 
 # ------ React ------
