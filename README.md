@@ -17,3 +17,4 @@ This is a public repo including good web development articles
 
 # ----- Tips ------
 1. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
+2. [Manipulate Cookies with Vanilla javascript](https://plainjs.com/javascript/utilities/set-cookie-get-cookie-and-delete-cookie-5/)
