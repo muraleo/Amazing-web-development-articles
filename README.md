@@ -17,6 +17,9 @@ This is a public repo including good web development articles
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
 2. [Master Drag and Drop with React part 01](https://engineering.datorama.com/mastering-drag-drop-with-reactjs-part-01-39bed3d40a03)
 
-# ----- Tips ------
+# ------ Tips ------
 1. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
 2. [Manipulate Cookies with Vanilla javascript](https://plainjs.com/javascript/utilities/set-cookie-get-cookie-and-delete-cookie-5/)
+
+# ----- Video Player ------
+1. [hide/display control bar](https://blog.videojs.com/hiding-and-showing-video-player-controls/)
