@@ -17,6 +17,8 @@ This is a public repo including good web development articles
 # ------ Cool UI Stuff ------
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
 2. [Master Drag and Drop with React part 01](https://engineering.datorama.com/mastering-drag-drop-with-reactjs-part-01-39bed3d40a03)
+3. [Progressive Image Loading](https://codeburst.io/how-to-do-simple-progressive-image-loading-in-react-like-medium-dfad4c181b53)
+4. [Image Lazy Loading](https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df)
 
 # ------ Tips ------
 1. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
