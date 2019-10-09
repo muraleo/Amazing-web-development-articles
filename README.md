@@ -12,6 +12,7 @@ This is a public repo including good web development articles
 1. [22 CSS Animation](https://freefrontend.com/css-text-animations/)
 2. [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/)
 3. [Hide scrollbar with CSS](https://www.geeksforgeeks.org/hide-scroll-bar-but-while-still-being-able-to-scroll-using-css/)
+4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
 
 # ------ Cool UI Stuff ------
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
