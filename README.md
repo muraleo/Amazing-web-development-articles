@@ -26,3 +26,7 @@ This is a public repo including good web development articles
 
 # ----- Video Player ------
 1. [hide/display control bar](https://blog.videojs.com/hiding-and-showing-video-player-controls/)
+
+# ----- Testing ------
+1. [How to test react components](https://www.robinwieruch.de/react-testing-tutorial)
+2. [Visual regression testing](https://www.robinwieruch.de/visual-regression-testing-react-storybook)
