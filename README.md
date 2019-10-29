@@ -34,3 +34,4 @@ This is a public repo including good web development stuff
 # ----- Tools ------
 1. [Messure website image load](http://qa-site-rtamerica.viewlift.com/)
 2. [Share Stack](https://stackshare.io/)
+3. [Review and remove Exif from image](http://www.verexif.com/)
