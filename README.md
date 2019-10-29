@@ -1,5 +1,5 @@
 # Amazing Web Development Articles
-This is a public repo including good web development articles
+This is a public repo including good web development stuff
 
 # ------ React ------
 1.  [Set up react app from scratch](https://medium.com/hackernoon/react-app-from-scratch-d694300d1631)
@@ -30,3 +30,6 @@ This is a public repo including good web development articles
 # ----- Testing ------
 1. [How to test react components](https://www.robinwieruch.de/react-testing-tutorial)
 2. [Visual regression testing](https://www.robinwieruch.de/visual-regression-testing-react-storybook)
+
+# ----- Tools ------
+1. [Messure website image load](http://qa-site-rtamerica.viewlift.com/)
