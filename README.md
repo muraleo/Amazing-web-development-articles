@@ -35,3 +35,4 @@ This is a public repo including good web development stuff
 1. [Messure website image load](http://qa-site-rtamerica.viewlift.com/)
 2. [Share Stack](https://stackshare.io/)
 3. [Review and remove Exif from image](http://www.verexif.com/)
+4. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
