@@ -14,6 +14,11 @@ This is a public repo including good web development stuff
 3. [Hide scrollbar with CSS](https://www.geeksforgeeks.org/hide-scroll-bar-but-while-still-being-able-to-scroll-using-css/)
 4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
 
+## Resouces
+
+1. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+4. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
+
 # ------ Cool UI Stuff ------
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
 2. [Master Drag and Drop with React part 01](https://engineering.datorama.com/mastering-drag-drop-with-reactjs-part-01-39bed3d40a03)
@@ -35,4 +40,3 @@ This is a public repo including good web development stuff
 1. [Messure website image load](http://qa-site-rtamerica.viewlift.com/)
 2. [Share Stack](https://stackshare.io/)
 3. [Review and remove Exif from image](http://www.verexif.com/)
-4. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
