@@ -44,3 +44,4 @@ This is a public repo including good web development stuff
 
 # ----- Good Course ------
 1. [Advanced Operating System](https://www.udacity.com/course/advanced-operating-systems--ud189)
+2. [You might not need JQuery](http://youmightnotneedjquery.com/)
