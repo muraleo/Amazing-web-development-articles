@@ -37,6 +37,7 @@ This is a public repo including good web development stuff
 2. [Visual regression testing](https://www.robinwieruch.de/visual-regression-testing-react-storybook)
 
 # ----- Tools ------
-1. [Messure website image load](http://qa-site-rtamerica.viewlift.com/)
-2. [Share Stack](https://stackshare.io/)
-3. [Review and remove Exif from image](http://www.verexif.com/)
+1. [Measure site load speed 1](https://developers.google.com/speed/pagespeed/insights/)
+2. [Measure site load speed 2](https://www.webpagetest.org/)
+3. [Share Stack](https://stackshare.io/)
+4. [Review and remove Exif from image](http://www.verexif.com/)
