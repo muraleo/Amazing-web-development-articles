@@ -1,5 +1,5 @@
 # Amazing Web Development Stuff
-This is a public repo including good web development stuff
+This is a public repo including good web development Resources
 
 # ------ React ------
 1.  [Set up react app from scratch](https://medium.com/hackernoon/react-app-from-scratch-d694300d1631)
@@ -41,6 +41,9 @@ This is a public repo including good web development stuff
 2. [Measure site load speed 2](https://www.webpagetest.org/)
 3. [Share Stack](https://stackshare.io/)
 4. [Review and remove Exif from image](http://www.verexif.com/)
+
+# ----- Optimization ------
+1. [7 optimization techniques in React](https://blog.logrocket.com/7-optimization-techniques-in-react/)
 
 # ----- Good Course ------
 1. [Advanced Operating System](https://www.udacity.com/course/advanced-operating-systems--ud189)
