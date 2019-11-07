@@ -41,6 +41,7 @@ This is a public repo including good web development Resources
 2. [Measure site load speed 2](https://www.webpagetest.org/)
 3. [Share Stack](https://stackshare.io/)
 4. [Review and remove Exif from image](http://www.verexif.com/)
+5. [Best SSGs](https://snipcart.com/blog/choose-best-static-site-generator)
 
 # ----- Optimization ------
 1. [7 optimization techniques in React](https://blog.logrocket.com/7-optimization-techniques-in-react/)
