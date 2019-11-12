@@ -13,11 +13,8 @@ This is a public repo including good web development Resources
 2. [Pure CSS for multiline truncation with ellipsis](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/)
 3. [Hide scrollbar with CSS](https://www.geeksforgeeks.org/hide-scroll-bar-but-while-still-being-able-to-scroll-using-css/)
 4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
-
-## Resouces
-
-1. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-4. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
+5. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+6. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
 
 # ------ JAVASCRIPT ------
 1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
