@@ -16,6 +16,7 @@ This is a public repo including good web development Resources
 
 # ------ JAVASCRIPT ------
 1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
+2. [Nodejs, TC-39, Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 
 ## Resouces
 
