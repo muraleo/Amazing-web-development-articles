@@ -14,14 +14,14 @@ This is a public repo including good web development Resources
 3. [Hide scrollbar with CSS](https://www.geeksforgeeks.org/hide-scroll-bar-but-while-still-being-able-to-scroll-using-css/)
 4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
 
-# ------ JAVASCRIPT ------
-1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
-2. [Nodejs, TC-39, Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
-
 ## Resouces
 
 1. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 4. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
+
+# ------ JAVASCRIPT ------
+1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
+2. [Nodejs, TC-39, Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
 
 # ------ Cool UI Stuff ------
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
