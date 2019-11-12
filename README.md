@@ -14,6 +14,9 @@ This is a public repo including good web development Resources
 3. [Hide scrollbar with CSS](https://www.geeksforgeeks.org/hide-scroll-bar-but-while-still-being-able-to-scroll-using-css/)
 4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
 
+# ------ JAVASCRIPT ------
+1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
+
 ## Resouces
 
 1. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
