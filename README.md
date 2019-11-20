@@ -8,6 +8,7 @@ This is a public repo including good web development Resources
 1. [Monitor and analyze the app](https://developers.google.com/web/fundamentals/performance/webpack/monitor-and-analyze)
 2. [Build performant and progressive React applications](https://web.dev/react)
 3. [Loadable VS React.lazy](https://www.smooth-code.com/open-source/loadable-components/docs/loadable-vs-react-lazy/)
+4. [React_Perf](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 
 # ------ CSS -------
 1. [22 CSS Animation](https://freefrontend.com/css-text-animations/)
@@ -45,7 +46,6 @@ This is a public repo including good web development Resources
 4. [Review and remove Exif from image](http://www.verexif.com/)
 5. [Best SSGs](https://snipcart.com/blog/choose-best-static-site-generator)
 6. [Webpack 4 Configurator](https://createapp.dev/)
-7. [React_Perf](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 
 # ----- Optimization ------
 1. [7 optimization techniques in React](https://blog.logrocket.com/7-optimization-techniques-in-react/)
