@@ -17,6 +17,7 @@ This is a public repo including good web development Resources
 4. [Center element vertically](https://stackoverflow.com/a/27532367/6849548)
 5. [Media Queries for standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 6. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
+7. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
 
 # ------ JAVASCRIPT ------
 1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
@@ -29,8 +30,7 @@ This is a public repo including good web development Resources
 4. [Image Lazy Loading](https://medium.com/@rossbulat/lazy-image-loading-in-react-the-full-breakdown-4026619de2df)
 
 # ------ Tips ------
-1. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
-2. [Manipulate Cookies with Vanilla javascript](https://plainjs.com/javascript/utilities/set-cookie-get-cookie-and-delete-cookie-5/)
+1. [Manipulate Cookies with Vanilla javascript](https://plainjs.com/javascript/utilities/set-cookie-get-cookie-and-delete-cookie-5/)
 
 # ----- Video Player ------
 1. [hide/display control bar](https://blog.videojs.com/hiding-and-showing-video-player-controls/)
