@@ -9,6 +9,7 @@ This is a public repo including good web development Resources
 2. [Build performant and progressive React applications](https://web.dev/react)
 3. [Loadable VS React.lazy](https://www.smooth-code.com/open-source/loadable-components/docs/loadable-vs-react-lazy/)
 4. [React_Perf](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
+5. [Beware: React setState is asynchronous!](https://medium.com/@wereHamster/beware-react-setstate-is-asynchronous-ce87ef1a9cf3)
 
 # ------ CSS -------
 1. [22 CSS Animation](https://freefrontend.com/css-text-animations/)
