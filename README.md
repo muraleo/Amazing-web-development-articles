@@ -49,7 +49,7 @@ This is a public repo including good web development Resources
 6. [Webpack 4 Configurator](https://createapp.dev/)
 7. [Detect unnecessary react state updates](https://github.com/maicki/why-did-you-update)
 8. [What Web Can Do Today](https://whatwebcando.today/)
-9. [Publish PWA in 3 app stores](https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/aa/d4/47b289d14d378a0c2a113e6dd47f/1574447125291_webp.netresizeimageimages-tab.jpg)
+9. [Publish PWA in 3 app stores](https://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/)
 10. [Top PWA apps](https://appsco.pe/toplist)
 11. [Implement HTTPS yourself](https://letsencrypt.org/)
 12. [Generate favicon](https://realfavicongenerator.net/)
