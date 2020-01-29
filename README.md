@@ -23,6 +23,7 @@ This is a public repo including good web development Resources
 # ------ JAVASCRIPT ------
 1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
 2. [Nodejs, TC-39, Modules](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
+3. [Why never use new Array in Javascript](https://coderwall.com/p/h4xm0w/why-never-use-new-array-in-javascript)
 
 # ------ Cool UI Stuff ------
 1. [React Drag and Drop](https://medium.com/the-andela-way/react-drag-and-drop-7411d14894b9)
