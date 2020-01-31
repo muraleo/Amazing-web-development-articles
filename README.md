@@ -34,6 +34,7 @@ This is a public repo including good web development Resources
 # ------ Tips ------
 1. [Manipulate Cookies with Vanilla javascript](https://plainjs.com/javascript/utilities/set-cookie-get-cookie-and-delete-cookie-5/)
 2. [Master console.log as a pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+3. [How to create a 2d array in javascript](https://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript)
 
 # ----- Video Player ------
 1. [hide/display control bar](https://blog.videojs.com/hiding-and-showing-video-player-controls/)
