@@ -57,6 +57,7 @@ This is a public repo including good web development Resources
 10. [Top PWA apps](https://appsco.pe/toplist)
 11. [Implement HTTPS yourself](https://letsencrypt.org/)
 12. [Generate favicon](https://realfavicongenerator.net/)
+13. [Update node version on ubuntu](http://geekstuff.org/2018/11/04/how-to-install-node-ubuntu-18-04/)
 
 # ----- Optimization ------
 1. [7 optimization techniques in React](https://blog.logrocket.com/7-optimization-techniques-in-react/)
