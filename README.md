@@ -59,6 +59,7 @@ This is a public repo including good web development Resources
 11. [Implement HTTPS yourself](https://letsencrypt.org/)
 12. [Generate favicon](https://realfavicongenerator.net/)
 13. [Update node version on ubuntu](http://geekstuff.org/2018/11/04/how-to-install-node-ubuntu-18-04/)
+14. [Logs the diff between current and previous props on a react element](https://gist.github.com/albertorestifo/83877c3e4c81066a592a47c4dcf6753b)
 
 # ----- Optimization ------
 1. [7 optimization techniques in React](https://blog.logrocket.com/7-optimization-techniques-in-react/)
