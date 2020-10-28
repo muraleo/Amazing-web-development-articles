@@ -20,6 +20,7 @@ This is a public repo including good web development Resources
 6. [CSS media queries cheat sheet](https://gist.github.com/bartholomej/8415655)
 7. [z-index not working](https://stackoverflow.com/questions/24086707/set-z-index-not-working-button-behind-a-container-html-css)
 8. [CSS filter generator](https://codepen.io/sosuke/pen/Pjoqqp)
+9. [Deounce and Throttle](https://css-tricks.com/debouncing-throttling-explained-examples/)
 
 # ------ JAVASCRIPT ------
 1. [Javascript Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
